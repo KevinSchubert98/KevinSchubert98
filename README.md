@@ -5,8 +5,16 @@ Ob Prototyp, MVP oder kleinere App für Selbstständige – ich helfe, aus Ideen
 
 ## 🛠️ Tech-Stack
 - Swift, SwiftUI
-- Xcode, Combine, Core Data, MapKit
+- Xcode, Combine, Core Data, SwiftKits, 
 - Firebase, Git
+- API-Anbindungen
+
+
+## 📱 Projekte
+
+### 📓 HueMood-App
+„SwiftUI App zur Steuerung smarter Lichtstimmungen"
+🔗 [Projekt ansehen](https://github.com/KevinSchubert98/HueMood)
 
 ## 📬 Kontakt
 📧 kevinschubert9820@icloud.com  
