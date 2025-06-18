@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Kevin Schubert – iOS App Developer (SwiftUI)
 
-<!--
-**KevinSchubert98/KevinSchubert98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich entwickle native iOS-Apps mit Swift & SwiftUI – nebenberuflich als Freelancer.  
+Ob Prototyp, MVP oder kleinere App für Selbstständige – ich helfe, aus Ideen reale Apps zu machen.
 
-Here are some ideas to get you started:
+## 🛠️ Tech-Stack
+- Swift, SwiftUI
+- Xcode, Combine, Core Data, MapKit
+- Firebase, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Kontakt
+📧 kevinschubert9820@icloud.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/kevin-schubert-40a0a5324)
