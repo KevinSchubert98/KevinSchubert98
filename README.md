@@ -16,6 +16,13 @@ Ob Prototyp, MVP oder kleinere App für Selbstständige – ich helfe, aus Ideen
 „SwiftUI App zur Steuerung smarter Lichtstimmungen"
 🔗 [Projekt ansehen](https://github.com/KevinSchubert98/HueMood)
 
+### 📅 Terminplaner App (SwiftUI)
+"Eine moderne, lokale Terminplaner-App für iOS mit Erinnerungsfunktion, Wiederholungen und Kategorien – erstellt mit SwiftUI und UserNotifications."
+🔗 [Projekt ansehen](https://github.com/KevinSchubert98/TerminPlaner)
+
+
+
+
 ## 📬 Kontakt
 📧 kevinschubert9820@icloud.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/kevin-schubert-40a0a5324)
